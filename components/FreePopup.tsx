@@ -49,16 +49,16 @@ export default function FreePopup() {
               <h3 className="mb-2 text-xl font-bold">Peringatan Penting!</h3>
               <div className="space-y-3 text-sm text-stone-300">
                 <p>
-                  Selamat datang di <strong>InstaStalk</strong>. Website ini adalah alat gratis (Open Source) yang dikembangkan secara independen.
+                  Selamat datang di <strong>InstaStalk</strong>. Website ini adalah alat gratis yang dikembangkan secara independen.
                 </p>
                 <div className="p-3 border rounded-lg bg-red-950/30 border-red-900/50 text-red-200">
-                  <strong>⚠️ PERHATIAN:</strong> Web ini disediakan secara <strong>GRATIS</strong> dan <strong>TIDAK PERNAH DIPERJUALBELIKAN</strong> oleh pihak manapun. Jika Anda membeli script/akses web ini, Anda telah tertipu!
+                  <strong>⚠️ PERHATIAN:</strong> Web ini disediakan secara <strong>GRATIS</strong> dan <strong>OLEH DEVELOPER JHON PRODUCTION</strong> untuk Instagram statistik follower, bio, dan foto profil HD secara gratis..Jika Di Salah Gunakan Oleh Oknum Yang Tidak Bertanggung Dev Tidak Bertanggung Jawab Karena Website Ini Di Buat Hanya Untuk Melihat Profil Instagram!
                 </div>
                 <p className="pt-2 font-medium">
-                  Developed with ❤️ by <span className="text-white">SANN404 FORUM</span>
+                  Developed with ❤️ by <span className="text-white">JHON PRODUCTION</span>
                 </p>
                 <a 
-                  href="https://whatsapp.com/channel/0029Vb6ukqnHQbS4mKP0j80L"
+                  href="https://whatsapp.com/channel/0029VaLiUSS5q08hPj5mcH0m"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center w-full py-2.5 mt-4 font-semibold text-white transition-colors bg-green-600 rounded-xl hover:bg-green-700"

@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col items-center justify-between md:flex-row">
           <div className="mb-4 md:mb-0">
             <p className="text-sm text-stone-400">
-              © {currentYear} Web App by <span className="font-bold text-[#F5F5DC]">SANN404 FORUM</span>
+              © {currentYear} Web App by <span className="font-bold text-[#F5F5DC]">JHON PRODUCTION</span>
             </p>
             <p className="mt-1 text-xs text-stone-500">
               Not officially affiliated with Instagram.

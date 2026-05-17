@@ -35,7 +35,7 @@ export default function Navbar() {
             </Link>
             <div className="hidden sm:flex items-center gap-1.5 text-sm font-semibold px-3 py-1.5 rounded-full bg-[#2A2A2A] text-[#F5F5DC] border border-[#3A3A3A]">
               <Code2 className="w-4 h-4 text-stone-400" />
-              <span>SANN404 FORUM</span>
+              <span>JHON PRODUCTION</span>
             </div>
           </div>
         </div>
