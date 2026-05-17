@@ -111,12 +111,12 @@ export default function DocsPage() {
               <h2 className="text-2xl font-bold text-[#F5F5DC]">Developer & License</h2>
             </div>
             <p className="mb-4 leading-relaxed">
-              Aplikasi ini dikembangkan oleh <strong className="text-white text-lg">SANN404 FORUM</strong>. Tujuan dari website ini adalah edukasional serta mempermudah pengalaman open-source (Information Gathering).
+              Aplikasi ini dikembangkan oleh <strong className="text-white text-lg">JHON PRODUCTION</strong>. Tujuan dari website ini adalah edukasional serta mempermudah pengalaman open-source (Information Gathering).
             </p>
             <div className="p-4 rounded-xl bg-orange-950/20 border border-orange-900/40 mt-6">
               <h4 className="text-orange-200 font-bold mb-2">Peringatan:</h4>
               <p className="text-sm text-orange-200/80">
-                Aplikasi ini <strong>Gratis dan Open Source</strong>. Segala bentuk komersialisasi dari source code ini oleh pihak ketiga adalah dilarang, dan developer asli (SANN404 FORUM) tidak berafiliasi maupun bertanggung jawab atas aplikasi Instagram resmi.
+                Aplikasi ini <strong>Gratis Dan</strong>. Segala bentuk komersialisasi dari Website ini oleh pihak ketiga adalah dilarang, dan developer asli (JHON PRODUCTION) tidak berafiliasi maupun bertanggung jawab atas aplikasi Instagram resmi.
               </p>
             </div>
           </section>
