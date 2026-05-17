@@ -71,7 +71,7 @@ export default function Home() {
         </h1>
         <p className="text-lg text-stone-400">
           Stalking profil publik Instagram dengan mudah. Dapatkan statistik follower, bio, dan foto profil HD secara gratis. 
-          <br className="hidden md:block"/>Dikembangkan oleh <strong className="text-stone-200">SANN404 FORUM</strong>.
+          <br className="hidden md:block"/>Dikembangkan oleh <strong className="text-stone-200">JHON PRODUCTION</strong>.
         </p>
       </div>
 

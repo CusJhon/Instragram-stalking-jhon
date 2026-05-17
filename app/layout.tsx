@@ -12,8 +12,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'InstaStalk | SANN404 FORUM',
-  description: 'Instagram Stalking website. Free and open source tool for profile finding, developed by SANN404 FORUM.',
+  title: 'InstaStalk | JHON PRODUCTION',
+  description: 'Instagram Stalking website. Free and open source tool for profile finding, developed by JHON PRODUCTION.',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
